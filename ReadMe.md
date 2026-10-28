@@ -132,11 +132,14 @@ Di dalam `js/wedding-config.js`:
 
 ---
 
-## 🚀 Cara Menjalankan & Membuka
+## 🚀 Akses & Tautan GitHub Pages
 
-Cukup buka berkas `index.html` langsung di browser kesayangan Anda (Google Chrome, Firefox, Safari, Edge), atau jalankan local server menggunakan ekstensi **Live Server** di VS Code.
+- **Repositori GitHub:**  
+  👉 [https://github.com/Faqihrofiqi/mustafa-wedding](https://github.com/Faqihrofiqi/mustafa-wedding)
 
-Untuk membagikan tautan undangan khusus ke tamu:
-```
-https://website-anda.com/?to=Nama+Tamu+Undangan
-```
+- **Website Undangan Online (GitHub Pages):**  
+  👉 **[https://faqihrofiqi.github.io/mustafa-wedding/](https://faqihrofiqi.github.io/mustafa-wedding/)**
+
+- **Contoh Tautan Khusus untuk Tamu Undangan:**  
+  👉 `https://faqihrofiqi.github.io/mustafa-wedding/?to=Bapak+Budi+Santoso`
+  👉 `https://faqihrofiqi.github.io/mustafa-wedding/?to=Keluarga+Besar+Haji+Sulaiman`
